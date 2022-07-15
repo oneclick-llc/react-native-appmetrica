@@ -82,7 +82,7 @@ dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
     // AppMetrica SDK.
-    implementation 'com.yandex.android:mobmetricalib:4.2.0'
+    implementation 'com.yandex.android:mobmetricalib:3.17.0'
     implementation 'com.android.installreferrer:installreferrer:1.1.2'
 }
 
